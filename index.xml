@@ -12,4 +12,28 @@
       <html></html>
     </canonical-urls>
   </meta>
+  <collection name="covid-19-law">
+    <heading>Covid related Laws in the United States</heading>
+    <xi:include href="./us/az/index.xml"/>
+    <xi:include href="./us/ca/index.xml"/>
+    <xi:include href="./us/co/index.xml"/>
+    <xi:include href="./us/dc/index.xml"/>
+    <xi:include href="./us/fl/index.xml"/>
+    <xi:include href="./us/ga/index.xml"/>
+    <xi:include href="./us/hi/index.xml"/>
+    <xi:include href="./us/ky/index.xml"/>
+    <xi:include href="./us/la/index.xml"/>
+    <xi:include href="./us/mn/index.xml"/>
+    <xi:include href="./us/mo/index.xml"/>
+    <xi:include href="./us/oh/index.xml"/>
+    <xi:include href="./us/ok/index.xml"/>
+    <xi:include href="./us/or/index.xml"/>
+    <xi:include href="./us/pa/index.xml"/>
+    <xi:include href="./us/tn/index.xml"/>
+    <xi:include href="./us/tx/index.xml"/>
+    <xi:include href="./us/va/index.xml"/>
+    <xi:include href="./us/wa/index.xml"/>
+    <xi:include href="./us/wi/index.xml"/>
+  </collection>
 </library>
+
