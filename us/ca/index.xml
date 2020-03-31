@@ -1,49 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="state-ca">
+<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="us/ca" type="state">
   <heading>California</heading>
-  <collection name="us/ca/cities/san-francisco">
-    <heading>San Francisco</heading>
-    <xi:include href="./cities/san-francisco/departments/public-health/orders/2020-03-16.xml"/>
-    <xi:include href="./cities/san-francisco/board-of-supervisors/motions/M20-38.xml"/>
-    <xi:include href="./cities/san-francisco/board-of-supervisors/motions/M20-28.xml"/>
-    <xi:include href="./cities/san-francisco/mayor/proclamations/2020-02-25.xml"/>
+  <collection name="cities/anaheim" type="city">
+    <heading>Anaheim</heading>
+    <xi:include href="./cities/anaheim/council/ordinances/2020-03-24.xml"/>
   </collection>
-  <collection name="us/ca/cities/san-jose">
-    <heading>San Jose</heading>
-    <xi:include href="./cities/san-jose/emergency-services/proclamations/2020-03-06.xml"/>
-  </collection>
-  <collection name="us/ca/cities/longbeach">
-    <heading>Long Beach</heading>
-    <xi:include href="./cities/longbeach/council/ordinances/2020-03-25.xml"/>
-    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-16.xml"/>
-    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-12.xml"/>
-    <xi:include href="./cities/longbeach/council/resolutions/2020-03-04.xml"/>
-  </collection>
-  <collection name="us/ca/cities/san-diego">
-    <heading>San Diego</heading>
-    <xi:include href="./cities/san-diego/mayor/orders/2020-1.xml"/>
-    <xi:include href="./cities/san-diego/mayor/proclamations/2020-03-12.xml"/>
-  </collection>
-  <collection name="us/ca/cities/oakland">
-    <heading>Oakland</heading>
-    <xi:include href="./cities/oakland/council/resolutions/2020-03-09.xml"/>
-  </collection>
-  <collection name="us/ca/cities/stockton">
-    <heading>Stockton</heading>
-    <xi:include href="./cities/stockton/citymanager/orders/2020-03-12.xml"/>
-  </collection>
-  <collection name="us/ca/cities/sacramento">
-    <heading>Sacramento</heading>
-    <xi:include href="./cities/sacramento/council/ordinances/2020-03-17a.xml"/>
-    <xi:include href="./cities/sacramento/council/ordinances/2020-03-17.xml"/>
-    <xi:include href="./cities/sacramento/mayor/orders/2020-03-13.xml"/>
-  </collection>
-  <collection name="us/ca/cities/riverside">
-    <heading>Riverside</heading>
-    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-18.xml"/>
-    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-13.xml"/>
-  </collection>
-  <collection name="us/ca/cities/fresno">
+  <collection name="cities/fresno" type="city">
     <heading>Fresno</heading>
     <xi:include href="./cities/fresno/council/ordinance/2020-03-19.xml"/>
     <xi:include href="./cities/fresno/citymanager/orders/2020-03-18.xml"/>
@@ -51,16 +13,54 @@
     <xi:include href="./cities/fresno/council/ordinance/2020-03-16.xml"/>
     <xi:include href="./cities/fresno/mayor/orders/2020-03-16.xml"/>
   </collection>
-  <collection name="us/ca/counties/riverside">
+  <collection name="cities/longbeach" type="city">
+    <heading>Long Beach</heading>
+    <xi:include href="./cities/longbeach/council/ordinances/2020-03-25.xml"/>
+    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-16.xml"/>
+    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-12.xml"/>
+    <xi:include href="./cities/longbeach/council/resolutions/2020-03-04.xml"/>
+  </collection>
+  <collection name="cities/oakland" type="city">
+    <heading>Oakland</heading>
+    <xi:include href="./cities/oakland/council/resolutions/2020-03-09.xml"/>
+  </collection>
+  <collection name="cities/riverside" type="city">
     <heading>Riverside</heading>
+    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-18.xml"/>
+    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-13.xml"/>
+  </collection>
+  <collection name="counties/riverside" type="county">
+    <heading>Riverside County</heading>
     <xi:include href="./counties/riverside/healthofficer/orders/2020-03-16.xml"/>
   </collection>
-  <collection name="us/ca/cities/santaana">
+  <collection name="cities/sacramento" type="city">
+    <heading>Sacramento</heading>
+    <xi:include href="./cities/sacramento/council/ordinances/2020-03-17a.xml"/>
+    <xi:include href="./cities/sacramento/council/ordinances/2020-03-17.xml"/>
+    <xi:include href="./cities/sacramento/mayor/orders/2020-03-13.xml"/>
+  </collection>
+  <collection name="cities/san-diego" type="city">
+    <heading>San Diego</heading>
+    <xi:include href="./cities/san-diego/mayor/orders/2020-1.xml"/>
+    <xi:include href="./cities/san-diego/mayor/proclamations/2020-03-12.xml"/>
+  </collection>
+  <collection name="cities/san-francisco" type="city">
+    <heading>San Francisco</heading>
+    <xi:include href="./cities/san-francisco/departments/public-health/orders/2020-03-16.xml"/>
+    <xi:include href="./cities/san-francisco/board-of-supervisors/motions/M20-38.xml"/>
+    <xi:include href="./cities/san-francisco/board-of-supervisors/motions/M20-28.xml"/>
+    <xi:include href="./cities/san-francisco/mayor/proclamations/2020-02-25.xml"/>
+  </collection>
+  <collection name="cities/san-jose" type="city">
+    <heading>San Jose</heading>
+    <xi:include href="./cities/san-jose/emergency-services/proclamations/2020-03-06.xml"/>
+  </collection>
+  <collection name="cities/santaana" type="city">
     <heading>Santa Ana</heading>
     <xi:include href="./cities/santaana/directorofemergencyservices/orders/2020-03-19.xml"/>
   </collection>
-  <collection name="us/ca/cities/anaheim">
-    <heading>Anaheim</heading>
-    <xi:include href="./cities/anaheim/council/ordinances/2020-03-24.xml"/>
+  <collection name="cities/stockton" type="city">
+    <heading>Stockton</heading>
+    <xi:include href="./cities/stockton/citymanager/orders/2020-03-12.xml"/>
   </collection>
 </collection>
