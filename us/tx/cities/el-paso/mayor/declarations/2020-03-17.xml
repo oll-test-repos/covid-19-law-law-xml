@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" entity="" id="us/tx/cities/el-paso/mayor/declarations/2020-03-17">
-  <num type="Declaration">3rd Order of 2020-03-17</num>
+  <num type="Declaration"></num>
   <heading>Local Emergency Declaration</heading>
-  <heading type="short"></heading>
+  <heading type="oll">City of El Paso, TX Local Emergency Declaration, March 17, 2020</heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-13</effective>

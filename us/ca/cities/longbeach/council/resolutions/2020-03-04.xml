@@ -2,7 +2,7 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Resolution" entity="" id="us/ca/cities/longbeach/council/resolutions/2020-03-04">
   <num type="Resolution">20-0214</num>
   <heading>Resolution to ratify the City Manager's Proclamation of Local Emergency and ratify the Long Beach Health Officer's Declaration of Local Health Emergency regarding the serious and imminent threat of an outbreak of novel coronavirus (COVID-19)</heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Adopted</status>
     <effective>2020-03-04</effective>

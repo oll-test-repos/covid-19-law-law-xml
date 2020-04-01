@@ -2,7 +2,7 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Ordinance" entity="" id="us/ca/cities/longbeach/council/ordinances/2020-03-25">
   <num type="Emergency Ordinance">20-0255</num>
   <heading>Amending the Long Beach Municipal Code by adding Chapter 8.100, relating to a temporary prohibition on evictions due to COVID-19 and declaring the urgency thereof, read the first time and laid over to the next regular meeting of the City Council for final reading. (Citywide)</heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Adopted</status>
     <effective>2020-03-25</effective>

@@ -3,7 +3,7 @@
 " entity="" id="us/or/cities/portland/mayor/declarations/2020-03-12">
   <num type="Declaration">Order of 2020-03-12</num>
   <heading>Emergency Declaration for the City of Portland, Oregon</heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-12</effective>

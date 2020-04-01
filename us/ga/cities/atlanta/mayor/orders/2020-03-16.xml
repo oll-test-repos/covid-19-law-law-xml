@@ -2,7 +2,7 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Executive Order" entity="" id="us/ga/cities/atlanta/mayor/orders/2020-03-16">
   <num type="Order">2020-007</num>
   <heading>Declaring a State of Emergency and Directing that there be a Temporary Prohibition on Large Public Assemblages, Events or Gatherings of More than 50 People until March 31, 2020.</heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-16</effective>

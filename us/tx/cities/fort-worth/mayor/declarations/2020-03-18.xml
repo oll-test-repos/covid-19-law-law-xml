@@ -2,7 +2,7 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" entity="" id="us/tx/cities/fort-worth/mayor/declarations/2020-03-18">
   <num type="Declaration"></num>
   <heading>SECOND AMENDED DECLARATION OF PUBLIC HEALTH EMERGENCY</heading>
-  <heading type="short"></heading>
+  <heading type="oll">City of Fort Worth, TX SECOND AMENDED DECLARATION OF PUBLIC HEALTH EMERGENCY, March 18, 2020</heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-19</effective>

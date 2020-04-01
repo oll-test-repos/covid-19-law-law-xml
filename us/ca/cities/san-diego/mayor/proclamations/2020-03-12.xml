@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" entity="" id="us/ca/cities/san-diego/mayor/proclamations/2020-03-12">
-  <num type="Proclamation">Order of March 12, 2020</num>
+  <num type="Proclamation"></num>
   <heading>Proclamation of Local Emergency</heading>
-  <heading type="short"></heading>
+  <heading type="oll">San Diego, CA Order, March 12, 2020</heading>
   <meta>
     <status>Issued</status>
     <effective>2020-02-14</effective>

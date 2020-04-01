@@ -2,7 +2,7 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" entity="" id="us/ca/cities/santaana/directorofemergencyservices/orders/2020-03-19">
   <num type="Order">Order of 2020-03-19</num>
   <heading>An Executive Order of the Director of Emergency Services of the City of Santa Ana, Enacting and Implementing a Moratorium on Evictions and Foreclosures Due to Non-Payment of Rent by Residential and Commercial Tenants Impacted by the Novel Coronavirus (COVID-19) and other Protective Measures During a Time of Emergency </heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-19</effective>

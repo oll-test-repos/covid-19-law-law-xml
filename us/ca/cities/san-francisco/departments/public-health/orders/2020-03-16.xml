@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="ORDER OF THE HEALTH OFFICER No." entity="" id="us/ca/cities/san-francisco/departments/public-health/orders/2020-03-16">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="San Francisco, CA ORDER OF THE HEALTH OFFICER No." entity="" id="us/ca/cities/san-francisco/departments/public-health/orders/2020-03-16">
   <num type="Order">C19-07</num>
   <heading>ORDER OF THE HEALTH OFFICER OF THE CITY AND COUNTY OF SAN FRANCISCO DIRECTING ALL INDIVIDUALS LIVING IN THE COUNTY TO SHELTER AT THEIR PLACE OF RESIDENCE EXCEPT THAT THEY MAY LEAVE TO PROVIDE OR RECEIVE CERTAIN ESSENTIAL SERVICES OR ENGAGE IN CERTAIN ESSENTIAL ACTIVITIES AND WORK FOR ESSENTIAL BUSINESS AND GOVERNMENT SERVICES; EXEMPTING INDIVIDUALS EXPERIENCING HOMELESSNESS FROM THE SHELTER IN PLACE ORDER BUT URGING THEM TO FIND SHELTER AND GOVERNMENT AGENCIES TO PROVIDE IT; DIRECTING ALL BUSINESSES AND GOVERNMENTAL AGENCIES TO CEASE NON-ESSENTIAL OPERATIONS AT PHYSICAL LOCATIONS IN THE COUNTY; PROHIBITING ALL NON-ESSENTIAL GATHERINGS OF ANY NUMBER OF INDIVIDUALS; AND ORDERING CESSATION OF ALL NON-ESSENTIAL TRAVEL</heading>
-  <heading type="short"></heading>
+  <heading type="oll"></heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-16</effective>
