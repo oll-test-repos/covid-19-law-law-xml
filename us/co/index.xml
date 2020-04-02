@@ -5,9 +5,9 @@
     <heading>Aurora</heading>
     <xi:include href="./cities/aurora/mayor/orders/2020-03-18.xml"/>
   </collection>
-  <collection name="cities/coloradosprings" type="city">
+  <collection name="cities/colorado-springs" type="city">
     <heading>Colorado Springs</heading>
-    <xi:include href="./cities/coloradosprings/mayor/orders/2020-03-10.xml"/>
+    <xi:include href="./cities/colorado-springs/mayor/orders/2020-03-10.xml"/>
   </collection>
   <collection name="cities/denver" type="city">
     <heading>Denver</heading>

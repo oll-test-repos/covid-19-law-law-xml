@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Executive Order" entity="" id="us/ga/cities/atlanta/mayor/orders/2020-03-15">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="City of Atlanta Executive Order" id="us/ga/cities/atlanta/mayor/orders/2020-03-15">
   <num type="Order">2020-006</num>
-  <heading>Ordering the Chief Financial Officer to Allocate Up to $7 Million in Funds for Providing Assistance to those impacted by the COVID-19 Pandemic.</heading>
+  <heading>Ordering the Chief Financial Officer to Allocate up to $7 Million in Funds for Providing Assistance to Those Impacted by the COVID-19 Pandemic.</heading>
   <heading type="oll"></heading>
   <meta>
     <status>Issued</status>

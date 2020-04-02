@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Proclamation" entity="" id="us/co/cities/denver/council/resolutions/2020-03-23">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="City of Denver Proclamation" id="us/co/cities/denver/council/resolutions/2020-03-23">
   <num type="Proclamation">20-0299</num>
-  <heading>A proclamation recognizing workers providing critical services during the COVID-19 emergency.</heading>
+  <heading>A Proclamation Recognizing Workers Providing Critical Services During the COVID-19 Emergency.</heading>
   <heading type="oll"></heading>
   <meta>
     <status>Adopted</status>

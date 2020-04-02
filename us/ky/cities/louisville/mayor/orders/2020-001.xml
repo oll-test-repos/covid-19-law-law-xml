@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Executive Order" entity="" id="us/ky/cities/louisville/mayor/orders/2020-001">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="City of Louisville Executive Order" id="us/ky/cities/louisville/mayor/orders/2020-001">
   <num type="Executive Order">2020-001</num>
-  <heading>DECLARATION OF A STATE OF EMERGENCY RELATING TO PREPARATIONS AND RESPONSIVE MEASURES REGARDING THE NOVEL CORONAVIRUS (COVID-19) </heading>
+  <heading>Declaration of a State of Emergency Relating to Preparations and Responsive Measures Regarding the Novel Coronavirus (COVID-19)</heading>
   <heading type="oll"></heading>
   <meta>
     <status>Issued</status>

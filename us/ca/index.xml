@@ -8,17 +8,17 @@
   <collection name="cities/fresno" type="city">
     <heading>Fresno</heading>
     <xi:include href="./cities/fresno/council/ordinance/2020-03-19.xml"/>
-    <xi:include href="./cities/fresno/citymanager/orders/2020-03-18.xml"/>
-    <xi:include href="./cities/fresno/citymanager/orders/2020-03-17.xml"/>
+    <xi:include href="./cities/fresno/city-manager/orders/2020-03-18.xml"/>
+    <xi:include href="./cities/fresno/city-manager/orders/2020-03-17.xml"/>
     <xi:include href="./cities/fresno/council/ordinance/2020-03-16.xml"/>
     <xi:include href="./cities/fresno/mayor/orders/2020-03-16.xml"/>
   </collection>
-  <collection name="cities/longbeach" type="city">
+  <collection name="cities/long-beach" type="city">
     <heading>Long Beach</heading>
-    <xi:include href="./cities/longbeach/council/ordinances/2020-03-25.xml"/>
-    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-16.xml"/>
-    <xi:include href="./cities/longbeach/healthofficer/orders/2020-03-12.xml"/>
-    <xi:include href="./cities/longbeach/council/resolutions/2020-03-04.xml"/>
+    <xi:include href="./cities/long-beach/council/ordinances/2020-03-25.xml"/>
+    <xi:include href="./cities/long-beach/healthofficer/orders/2020-03-16.xml"/>
+    <xi:include href="./cities/long-beach/healthofficer/orders/2020-03-12.xml"/>
+    <xi:include href="./cities/long-beach/council/resolutions/2020-03-04.xml"/>
   </collection>
   <collection name="cities/oakland" type="city">
     <heading>Oakland</heading>
@@ -26,12 +26,12 @@
   </collection>
   <collection name="cities/riverside" type="city">
     <heading>Riverside</heading>
-    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-18.xml"/>
-    <xi:include href="./cities/riverside/directorofemergencyservices/orders/2020-03-13.xml"/>
+    <xi:include href="./cities/riverside/director-of-emergency-services/orders/2020-03-18.xml"/>
+    <xi:include href="./cities/riverside/director-of-emergency-services/orders/2020-03-13.xml"/>
   </collection>
   <collection name="counties/riverside" type="county">
     <heading>Riverside County</heading>
-    <xi:include href="./counties/riverside/healthofficer/orders/2020-03-16.xml"/>
+    <xi:include href="./counties/riverside/health-officer/orders/2020-03-16.xml"/>
   </collection>
   <collection name="cities/sacramento" type="city">
     <heading>Sacramento</heading>
@@ -55,12 +55,12 @@
     <heading>San Jose</heading>
     <xi:include href="./cities/san-jose/emergency-services/proclamations/2020-03-06.xml"/>
   </collection>
-  <collection name="cities/santaana" type="city">
+  <collection name="cities/santa-ana" type="city">
     <heading>Santa Ana</heading>
-    <xi:include href="./cities/santaana/directorofemergencyservices/orders/2020-03-19.xml"/>
+    <xi:include href="./cities/santa-ana/director-of-emergency-services/orders/2020-03-19.xml"/>
   </collection>
   <collection name="cities/stockton" type="city">
     <heading>Stockton</heading>
-    <xi:include href="./cities/stockton/citymanager/orders/2020-03-12.xml"/>
+    <xi:include href="./cities/stockton/city-manager/orders/2020-03-12.xml"/>
   </collection>
 </collection>

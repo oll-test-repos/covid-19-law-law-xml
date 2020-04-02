@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" entity="" id="us/az/cities/tucson/mayor/orders/2020-03-17">
-  <num type="Proclamation">Proclamation of 2020-03-17</num>
-  <heading>PROCLAMATION OF THE MAYOR DECLARING AN EMERGENCY OR LOCAL EMERGENCY</heading>
-  <heading type="oll"></heading>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="" id="us/az/cities/tucson/mayor/orders/2020-03-17">
+  <num type="Proclamation"></num>
+  <heading>Proclamation of the Mayor Declaring an Emergency or Local Emergency</heading>
+  <heading type="oll">City of Tucson Proclamation of the Mayor Declaring an Emergency or Local Emergency March 17, 2020</heading>
   <meta>
     <status>Issued</status>
     <effective>2020-03-17</effective>

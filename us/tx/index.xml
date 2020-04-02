@@ -8,10 +8,10 @@
     <xi:include href="./cities/austin/regulations/emergency/2020-03-13.xml"/>
     <xi:include href="./cities/austin/resolutions/20200312-074.xml"/>
   </collection>
-  <collection name="cities/corpuschristi" type="city">
+  <collection name="cities/corpus-christi" type="city">
     <heading>Corpus Christi</heading>
-    <xi:include href="./cities/corpuschristi/mayor/orders/2020-03-18.xml"/>
-    <xi:include href="./cities/corpuschristi/mayor/ordinances/2020-03-18.xml"/>
+    <xi:include href="./cities/corpus-christi/mayor/orders/2020-03-18.xml"/>
+    <xi:include href="./cities/corpus-christi/mayor/ordinances/2020-03-18.xml"/>
   </collection>
   <collection name="cities/dallas" type="city">
     <heading>Dallas</heading>
@@ -34,11 +34,8 @@
   </collection>
   <collection name="cities/fort-worth" type="city">
     <heading>Fort Worth</heading>
+    <xi:include href="./cities/fort-worth/council/ordinances/2020-03-19.xml"/>
     <xi:include href="./cities/fort-worth/mayor/declarations/2020-03-18.xml"/>
-  </collection>
-  <collection name="cities/fortworth" type="city">
-    <heading>Fort Worth</heading>
-    <xi:include href="./cities/fortworth/council/ordinances/2020-03-19.xml"/>
   </collection>
   <collection name="cities/san-antonio" type="city">
     <heading>San Antonio</heading>

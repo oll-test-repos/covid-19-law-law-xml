@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Resolution" entity="" id="us/mn/cities/minneapolis/council/resolutions/2020-03-19">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="City of Minneapolis Resolution" id="us/mn/cities/minneapolis/council/resolutions/2020-03-19">
   <num type="Resolution">2020-001</num>
-  <heading>Approving and extending the Mayor's Declaration of Local Public Health Emergency resulting from imminent health conditions caused by the presence of the Coronavirus Disease (COVID-19).</heading>
+  <heading>Approving and Extending the Mayor's Declaration of Local Public Health Emergency Resulting from Imminent Health Conditions Caused by the Presence of the Coronavirus Disease (covid-19).</heading>
   <heading type="oll"></heading>
   <meta>
     <status>Adopted</status>
