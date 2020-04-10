@@ -7,8 +7,8 @@
       <email>help@openlawlib.org</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/covid-19-law/law-xml</xml-bulk>
-      <html-bulk>https://github.com/covid-19-law/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/covid-19-law-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/covid-19-law-law-html</html-bulk>
       <html></html>
     </canonical-urls>
   </meta>
